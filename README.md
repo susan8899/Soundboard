@@ -1,4 +1,4 @@
 # Soundboard
 My Soundboard 
 
-To run open index.html in a browser
+To run download all files as .zip, extract and open index.html in a browser
